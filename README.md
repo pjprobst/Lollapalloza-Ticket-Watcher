@@ -21,6 +21,9 @@ python watch_lolla_tickets.py
 
 ## Push Notifications
 If you want to recieve push notification to your mobile device then sign up for an account on [https://pushover.net/](url) and edit the code to include your user key and api token. You will find your api token when you create an application on the website. Then download the mobile app and sign in under your same account. After that go back to [https://pushover.net/](url) and check that your device is connected. 
+* Example of the push notifcations *
+![example](https://github.com/user-attachments/assets/37d8a4eb-23b7-4f56-8bf1-160cebbfa9a7)
+** Wow look at that one for just 471! **
 
 ## Conclusion
 This simple python script only took me an afternoon to make but saved me hundreds of dollars so id call it a success. Good luck to everyone who tries it out!
